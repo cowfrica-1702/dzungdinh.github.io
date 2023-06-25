@@ -21,4 +21,4 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Dzung! I am an undergraduate student at <a href="https://www.dickinson.edu/
-">Dickinson College</a>,here I'm majoring in both Computer Science and Mathematics. My research interests include Medical Image Analysis, 3D Reconstruction, and Machine Learning Efficiency.
+">Dickinson College</a>, where I'm majoring in both Computer Science and Mathematics. My research interests include Medical Image Analysis, 3D Reconstruction, and Machine Learning Efficiency.
