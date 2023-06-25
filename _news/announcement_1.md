@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start working at Coordinated Science Lab, UIUC.
+Start working at <a href=https://csl.illinois.edu/">Coordinated Science Lab, UIUC</a>.
